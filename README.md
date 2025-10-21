@@ -21,9 +21,7 @@ Datasets Used:
 
 Relationships between Data Columns:
 - Category/Sub-Category vs. Sales & Quantity: Identifies top-selling products and performance distribution.
-
-- State vs. Total Sales: Highlights geographic sales concentration and potential
-regional opportunities.
+- State vs. Total Sales: Highlights geographic sales concentration and potential regional opportunities.
 - Order Date (Month-Year) vs. Sales Trend: Shows seasonality and time-based sales patterns.
 - Profit Margin vs. Categories: Determines product-level or category-level profitability.
 
