@@ -1,6 +1,7 @@
 # Data-Analyst-on-Sales-Performance-and-Customer-Insight-in-Retails-E-Commerce-
 
 Capstone Sample: Exploratory Data Analysis of Retail Sales and Customer Demographics
+
 1️⃣ Project Title and Introduction:
 Title: Sales Performance and Customer Insights in Retail Transactions
 
